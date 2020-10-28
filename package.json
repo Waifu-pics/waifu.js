@@ -1,5 +1,5 @@
 {
-  "name": "@waifu.pics/waifu.js",
+  "name": "waifu.js",
   "version": "1.0.0",
   "description": "A javascript wrapper for the waifu.pics API",
   "main": "index.js",
