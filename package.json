@@ -1,5 +1,5 @@
 {
-  "name": "waifu.js",
+  "name": "@waifu.pics/waifu.js",
   "version": "1.0.0",
   "description": "A javascript wrapper for the waifu.pics API",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Waifu-pics/waifu.js.git"
   },
-  "author": "Waifu-pics",
+  "author": "waifu.pics",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Waifu-pics/waifu.js/issues"
