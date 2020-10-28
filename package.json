@@ -1,0 +1,22 @@
+{
+  "name": "waifu.js",
+  "version": "1.0.0",
+  "description": "A javascript wrapper for the waifu.pics API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waifu-pics/waifu.js.git"
+  },
+  "author": "Waifu-pics",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waifu-pics/waifu.js/issues"
+  },
+  "homepage": "https://github.com/Waifu-pics/waifu.js#readme",
+  "dependencies": {
+    "got": "^11.8.0"
+  }
+}
